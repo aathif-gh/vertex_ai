@@ -1,0 +1,26 @@
+name: meeting_transcription
+description: "A new Flutter project for Meeting Transcription App."
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.0
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.11.0
+  path_provider: ^2.1.2
+  intl: ^0.19.0
+  # HTTP client — used for Groq Whisper + chat completions APIs
+  dio: ^5.7.0
+  # PDF print/share sheet
+  printing: ^5.13.2
+  # Native share sheet — WhatsApp, Slack, Gmail, etc.
+  share_plus: ^10.0.0
+  # Microphone recording — WAV chunks sent to Deepgram
+  record: ^7.1.1
+  web_socket_channel: ^3.0.3
+  url_launcher: ^6.3.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
