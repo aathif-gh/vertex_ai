@@ -1,4 +1,4 @@
-# Vertex Meeting Assistant
+# Vertex AI - Meeting Assistant
 
 > **iQOO Hackathon 2026**
 
