@@ -2,7 +2,7 @@
 
 > **iQOO Hackathon 2026**
 
-Vertex is a real-time meeting assistant app that delivers live transcription, MoMs, summarization, and enterprise compliance tracking. 
+Vertex AI is a real-time meeting assistant app that delivers live transcription, MoMs, summarization, and enterprise compliance tracking. 
 
 It streams live audio to the cloud, transcribes every word as it's spoken, and uses LLMs to generate smart summaries, extract action items, and enforce enterprise compliance — all in one tap.
 
